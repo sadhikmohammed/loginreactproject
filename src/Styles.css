@@ -1,0 +1,67 @@
+body{
+    background-color: #080710;
+}
+.bg{
+    width: 430px;
+    height: 520px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+}
+.signupform{
+    text-align: center;
+}
+.sign h1{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px;
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+}
+.signupform h5{
+    font-family: 'Poppins',sans-serif;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+
+
+}
+.signupform{
+    height: 600px;
+    width: 450px;
+    /* background-color: rgba(255,255,255,0.13); */
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    /* backdrop-filter: blur(10px); */
+    border: 2px solid rgba(255,255,255,0.1);
+    /* box-shadow: 0 0 40px rgb(8 7 16 / 60%); */
+    padding: 50px 35px;
+    opacity:2;
+}
+.signupform input{
+    padding: 10px 30px;
+}
+.btn{
+    margin-top: 30px;
+    padding: 10px 90px;
+    background-color: cornflowerblue;
+    color: #fff;
+    border: 0;
+}
+
+p,a {
+    color:#fff
+}
+.view h1{
+    color: #fff;
+    text-align: center;
+}
+.view th{
+    color: #fff;
+}
